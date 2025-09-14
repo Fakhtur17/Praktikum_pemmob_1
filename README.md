@@ -14,3 +14,5 @@ Tujuan pembuatan aplikasi ini adalah memahami struktur dasar project Android di 
 
 
 <img width="578" height="1019" alt="image" src="https://github.com/user-attachments/assets/000e7e77-7916-4bbc-8827-5343ce4244ea" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ad090c28-b63e-47de-8c9c-f9b2a5ae7b01" />
