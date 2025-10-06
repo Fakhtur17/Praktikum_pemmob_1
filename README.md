@@ -19,4 +19,8 @@ Tugas pertemuan 4
 
 ![Video Pertemuan 4 2025-09-29 at 17 21 16](https://github.com/user-attachments/assets/eeaa15cf-57fc-472d-95e5-a4b43cf2d66f)
 
+Tugas 4 Pertemuan 5
+
+![Tugas 4 Pertemuan 5 (1)](https://github.com/user-attachments/assets/6a96eb0a-4d6a-4001-8494-976388ec00a6)
+
 
